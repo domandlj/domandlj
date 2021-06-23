@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile �
 
 ![Alt Text](/computer.gif)
 
