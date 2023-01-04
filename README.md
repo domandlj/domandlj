@@ -1,6 +1,7 @@
 ### ;););)
 ![Alt Text](/computer.gif)
 
+I love computers, and for some mind philosophers i'm also a computer.
 
 <!--
 **domandlj/domandlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
