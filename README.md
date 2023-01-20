@@ -1,6 +1,7 @@
 ### 
-I'm Juan. I like computers, functional programming, formal verification and PL theory. 
-![Alt Text](/computer.gif)
+I'm Juan. I like computers, functional programming, formal verification and PL theory.  
+<img src="/computer.gif" alt="drawing" width="600"/>
+
 
 <!--
 **domandlj/domandlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
