@@ -1,5 +1,5 @@
 ### 
-I'm Juan. I like computers, functional programming, formal verification and PL theory.  
+I'm Juan. I like functional programming.  
 <img src="/computer.gif" alt="drawing" width="600"/>
 
 
