@@ -1,7 +1,7 @@
 I'm Juan. I like functional programming.  
 <img src="/computer.gif" alt="drawing" width="600"/>
 
-[Personal website ☛](https://github.com/domandlj/my-site)
+[☛ Personal website](https://domandlj.github.io/my-site/)
 
 
 
