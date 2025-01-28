@@ -1,7 +1,8 @@
-### 
+![image](https://github.com/user-attachments/assets/e1b7a7bc-8031-4205-9726-1b7816b43b59)### 
 I'm Juan. I like functional programming.  
 <img src="/computer.gif" alt="drawing" width="600"/>
 
+Personal website ![](https://github.com/domandlj/my-site)
 
 <!--
 **domandlj/domandlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
